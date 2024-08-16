@@ -8,7 +8,7 @@ I am currently delving into C and C++ for embedded systems and microcontroller p
 
 💻 **What I am currently working on**:  
 - Programming with C/C++
--Programming with C# 
+- Programming with C# 
 - Personal app development with Swift  
 - Small projects for friends and family that simplify everyday tasks
 
