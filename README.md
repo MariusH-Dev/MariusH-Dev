@@ -12,6 +12,9 @@ I am currently delving into C and C++ for embedded systems and microcontroller p
 - Personal app development with Swift  
 - Small projects for friends and family that simplify everyday tasks
 
+🌐 My Tech Blog:
+I write about programming, embedded systems, and other tech-related topics on my [blog](mariushuebbertz.info/blog). Check it out for tutorials, personal experiences, and more.
+
 💞️ **Collaborate with me**:  
 I am always open to collaborating on projects that push the limits of my skills, especially in the areas of C/C++ and app development. If you have a challenging idea, I would love to hear about it.
 
